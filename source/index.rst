@@ -16,6 +16,13 @@
 
    ChangeLog/2024
 
+.. toctree::
+   :caption: Linux常用指令
+   :numbered:
+
+   LinuxCmd/SD
+
+
 
 .. toctree::
    :caption: 内核架构简介
@@ -28,10 +35,6 @@
    :caption: 嵌入式编程语言
    :numbered:
 
-
-
-
-
    DevelopmentLanguage/GUNGrammar
 
    DevelopmentLanguage/Compilation
@@ -41,5 +44,10 @@
 
 
 
+.. toctree::
+   :caption: i.MX6ULL学习记录
+   :numbered:
+
+   iMX6ULL_Note/Problems
 
 
